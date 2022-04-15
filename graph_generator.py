@@ -14,7 +14,7 @@ json_data = {
 }
 
 all_tools = []
-all_techniques = []
+all_techniques = [] 
 
 
 def remove_dupe(group_list, verbose=False):
